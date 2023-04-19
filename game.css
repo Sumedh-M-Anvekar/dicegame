@@ -1,0 +1,31 @@
+.heading{
+  color: #A60046FF;
+  font-style: italic;
+  text-align: center;
+  font-size: 80px;
+  font-family: papyrus;
+  margin: auto;
+}
+.bg{
+  background-color:rgb(161, 161, 161);
+}
+.below{
+  padding-left: 400px;
+  color: #A60046FF;
+  display:inline-block;
+  font-size: 40px;
+  font-family: MV Boli;
+  margin: auto;
+}
+.above{
+  color:  #A60046FF;
+  font-size: 40px;
+  font-family: Gabriola;
+  margin: auto;
+}
+.im6{
+  padding-left: 330px;
+}
+.bottom{
+  padding-left: 1400px;
+}
